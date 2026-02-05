@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#Hola 
+# Hola
+## Soy Andrea, comunicadora visual con enfoque en **Branding.**
+- CDMX
+- Freelance
+- Branding 
+- Diseño 
